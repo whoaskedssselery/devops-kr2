@@ -1,3 +1,4 @@
+# KR2: Korzhnev
 import os
 import socket
 
